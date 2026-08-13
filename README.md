@@ -631,7 +631,3 @@ Interested in:
 - 🏥 Healthcare AI
 - 🔍 Explainable AI
 - 📈 Time Series Analysis
-
----
-
-⭐ **If you find this project interesting, consider giving the repository a star!**
