@@ -1,0 +1,13 @@
+Forecasting Based Anomaly Detection
+==================================================
+
+Threshold : 0.510254
+Accuracy : 0.984915
+Precision : 0.997080
+Recall : 0.984623
+F1 Score : 0.990812
+AUC : 0.996866
+
+Confusion Matrix
+[[ 432    6]
+ [  32 2049]]

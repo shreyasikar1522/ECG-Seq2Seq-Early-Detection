@@ -1,0 +1,9 @@
+ECG Forecasting Model
+
+Encoder : bilstm
+Hidden Size : 32
+Layers : 2
+Dropout : 0.4
+Input Length : 98
+Forecast Length : 42
+Parameters : 62497

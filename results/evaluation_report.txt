@@ -1,0 +1,13 @@
+ECG Forecasting Report
+========================================
+
+MSE : 0.160835
+RMSE : 0.401043
+MAE : 0.268865
+R2 : 0.798271
+
+Model
+Encoder : bilstm
+Hidden Size : 32
+Layers : 2
+Forecast Length : 42

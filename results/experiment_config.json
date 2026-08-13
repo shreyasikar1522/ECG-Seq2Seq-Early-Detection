@@ -1,0 +1,10 @@
+{
+    "Encoder": "bilstm",
+    "Hidden Size": 32,
+    "Layers": 2,
+    "Dropout": 0.4,
+    "Learning Rate": 0.0005,
+    "Batch Size": 64,
+    "Epochs": 50,
+    "Teacher Forcing": 0.7
+}
